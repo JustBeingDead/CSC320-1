@@ -1,0 +1,21 @@
+BEGIN
+    DECLARE firstName AS STRING
+    DECLARE lastName AS STRING
+    DECLARE streetAddress AS STRING
+    DECLARE city AS STRING
+    DECLARE zipCode AS STRING
+
+    SET firstName TO "Peter"
+    SET lastName TO "Row"
+    SET streetAddress TO "123 Something St"
+    SET city TO "Muppet"
+    SET zipCode TO "12345"
+
+    DISPLAY "Person Information:"
+    DISPLAY "-------------------"
+    DISPLAY "First name: " + firstName
+    DISPLAY "Last name: " + lastName
+    DISPLAY "Street address: " + streetAddress
+    DISPLAY "City: " + city
+    DISPLAY "Zip code: " + zipCode
+END
