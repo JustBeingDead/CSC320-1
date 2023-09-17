@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CSC320-1.iml" filepath="$PROJECT_DIR$/.idea/CSC320-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module 1 List Individuals Name and Address Information/Module 1 List Individuals Name and Address Information.iml" filepath="$PROJECT_DIR$/Module 1 List Individuals Name and Address Information/Module 1 List Individuals Name and Address Information.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 3 Calculate Average Withholding/Module 3 Calculate Average Withholding.iml" filepath="$PROJECT_DIR$/Module 3 Calculate Average Withholding/Module 3 Calculate Average Withholding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 4 Looping Construct with Floating Point Numbers/Module 4 Looping Construct with Floating Point Numbers.iml" filepath="$PROJECT_DIR$/Module 4 Looping Construct with Floating Point Numbers/Module 4 Looping Construct with Floating Point Numbers.iml" />
     </modules>
   </component>
 </project>
